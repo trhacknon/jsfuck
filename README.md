@@ -6,7 +6,7 @@ It does not depend on a browser, so you can even run it on Node.js.
 
 Demo: [jsfuck.com](http://www.jsfuck.com)
 
-By [@aemkei](https://twitter.com/aemkei) and [friends](https://github.com/aemkei/jsfuck/graphs/contributors).
+By [@trhacknon](https://twitter.com/) and [friends](https://github.com/trhacknon/jsfuck/graphs/contributors).
 
 ### Example
 
@@ -50,7 +50,7 @@ The following source will do an `alert(1)`:
     eval        =>  []["filter"]["constructor"]("return eval")()( CODE )
     window      =>  []["filter"]["constructor"]("return this")()
 
-See the full list [here](https://github.com/aemkei/jsfuck/blob/master/jsfuck.js).  
+See the full list [here](https://github.com/trhacknon/jsfuck/blob/master/jsfuck.js).  
 
 # How it Works
 
